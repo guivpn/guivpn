@@ -12,5 +12,5 @@
 </div>
 
 
-Apaixonado por tecnologia!
+</br>Apaixonado por tecnologia! 💭
 
