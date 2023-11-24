@@ -13,7 +13,7 @@
 </div>
 
 <div style = "display: inline_block"></br>
-    <img aling = "center" alt = "html5" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img aling = "center" alt = "html5" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div style = "display: inline_block"></br>
@@ -25,8 +25,9 @@
 </div>
 
 <div style = "display: inline_block"></br>
-    <img aling = "center" alt = "html5" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img aling = "center" alt = "html5" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
 
 </br>Apaixonado por tecnologia! 💭
 
