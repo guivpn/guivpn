@@ -1,9 +1,10 @@
 ### Olá, eu sou o Guilherme Vinícius 🎲
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eai_guihhh?igshid=YTQwZjQ0NmI0OA==)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-vinicius-9054b5256)
-
+<div>
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eai_guihhh?igshid=YTQwZjQ0NmI0OA==)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-vinicius-9054b5256)
+<div/>
+    
 ![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guivpn&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
