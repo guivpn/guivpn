@@ -6,7 +6,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeviniciusgv42@gmail.com)
 ##
 
-![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guivpn&show_icons=true&theme=tokyonight)
+
+![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guivpn&show_icons=true&theme=tokyonight)</br>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guivpn&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnologias que uso no meu dia
 
